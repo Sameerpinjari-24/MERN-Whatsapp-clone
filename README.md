@@ -10,5 +10,6 @@ Middleware: Pusher(To get real time data from backend to frontend)
 
 ## Output:
 
-![Output](https://user-images.githubusercontent.com/53139366/146592283-72a37fda-928a-4458-bc7d-7b4fcac8fa6e.JPG)
+![image](https://user-images.githubusercontent.com/53139366/148649314-f2da09db-b030-4465-ae3f-b5c4c075c6fe.png)
+
 
